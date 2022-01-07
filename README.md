@@ -13,5 +13,6 @@ Game created using OOP paradigm, I was testing inheritance with Turtle Library.
 ![imagen](https://user-images.githubusercontent.com/49128144/148578667-d90285f0-20d6-4174-b463-ff903c19429a.png)
 
 
-Hit the wall
+
+# Hit the wall
 ![imagen](https://user-images.githubusercontent.com/49128144/148578874-70cd925a-56ec-40c7-9bd4-d06c12ab68a0.png)
