@@ -21,5 +21,6 @@ Game created using OOP paradigm, I was testing inheritance with Turtle Library.
 
 # Updated version, learning how to read, write, append data from code to a Txt.file
 The high score will be updated no matter what you do, if you close the game, the value is gonna be stored in your system.
+
 ![imagen](https://user-images.githubusercontent.com/49128144/149061157-5a2f2954-515d-4b34-8f1a-d0168b3cd7c5.png)
 
