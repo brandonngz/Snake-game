@@ -44,14 +44,15 @@ while game_is_on:
 
     # Detect collision with wall.
     if abs(snake.head.xcor()) > 280 or abs(snake.head.ycor()) > 280:
-        scoreboard.game_over()
-        game_is_on = False
+        scoreboard.reset()
+        snake.reset()
 
     # Detect Coil Collision after snake head
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
-            scoreboard.game_over()
-            game_is_on = False
+            scoreboard.reset()
+            snake.reset()
 
 
 screen.exitonclick()
+
